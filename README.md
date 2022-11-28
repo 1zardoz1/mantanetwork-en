@@ -6,3 +6,8 @@
 **second phase of Manta Network trustedsetup**
 
 **if you have participated in the first stage, we will have completed the second stage by using our secret 12 word password that we received at that stage**
+
+*System Requirements*
+|  CPU  |    RAM     |     SSD    |  
+|-------|------------|------------|
+|    2  |      4     | unspecified|
