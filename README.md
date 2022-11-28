@@ -1,2 +1,0 @@
-# mantanetwork-en
-trustedsetupcontribute.md
