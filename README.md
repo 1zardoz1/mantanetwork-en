@@ -35,4 +35,9 @@ source $HOME/.cargo/env
 ```
 git clone https://github.com/Manta-Network/manta-rs.git
 ```
+###  create screen
+```
+screen -S manta
+```
+
 
