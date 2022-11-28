@@ -13,3 +13,6 @@ if you have participated in the first stage, we will have completed the second s
 |    2  |      4     | unspecified|
 
 ## update our server
+```
+sudo apt update && sudo apt upgrade -y
+```
