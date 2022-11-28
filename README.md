@@ -4,4 +4,5 @@
 ![unnamed](https://user-images.githubusercontent.com/100621008/204383868-7952c4c5-fd5e-4c86-aec1-0761f7045d2e.jpg)
 
 **second phase of Manta Network trustedsetup**
+
 ***if you have participated in the first stage, we will have completed the second stage by using our secret 12 word password that we received at that stage***
