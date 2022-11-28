@@ -1,1 +1,1 @@
-<h1 align="center">Mantanetwork </h1>
+<h1 align="center">MantaNetwork </h1>
