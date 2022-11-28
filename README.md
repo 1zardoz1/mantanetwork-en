@@ -39,5 +39,10 @@ git clone https://github.com/Manta-Network/manta-rs.git
 ```
 screen -S manta
 ```
+### entry manta folder
+```
+cd manta-rs
+```
+*this process will take a long time and at the end of the process, we will enter the contribution code, our 12 secret words*
 
 
