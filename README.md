@@ -27,3 +27,7 @@ sudo apt install pkg-config build-essential libssl-dev curl jq
 ```
 curl https://sh.rustup.rs/ -sSf | sh -s -- -y
 ```
+### specify the source
+```
+source $HOME/.cargo/env
+```
