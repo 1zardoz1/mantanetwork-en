@@ -19,4 +19,7 @@ sudo apt update && sudo apt upgrade -y
 ```
 apt install screen -y
 ```
-install the requirements
+### install the requirements
+```
+sudo apt install pkg-config build-essential libssl-dev curl jq
+```
