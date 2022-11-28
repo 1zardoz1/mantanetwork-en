@@ -44,5 +44,7 @@ screen -S manta
 cd manta-rs
 ```
 this process will take a long time and at the end of the process, we will enter the contribution code, our 12 secret words
-
+```
+cargo run --release --all-features --bin groth16_phase2_client contribute
+```
 
