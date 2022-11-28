@@ -47,4 +47,7 @@ this process will take a long time and at the end of the process, we will enter 
 ```
 cargo run --release --all-features --bin groth16_phase2_client contribute
 ```
+at the end of the process, we get in line and wait for our turn to come and we will be given time according to the density
+
+![Inkedmanta 1](https://user-images.githubusercontent.com/100621008/204391014-7f126f88-d3ca-4682-b8e5-c4e64a3ec2af.jpg)
 
