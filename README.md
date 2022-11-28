@@ -31,3 +31,8 @@ curl https://sh.rustup.rs/ -sSf | sh -s -- -y
 ```
 source $HOME/.cargo/env
 ```
+### cloning Manta
+```
+git clone https://github.com/Manta-Network/manta-rs.git
+```
+
