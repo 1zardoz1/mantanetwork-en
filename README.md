@@ -24,3 +24,6 @@ apt install screen -y
 sudo apt install pkg-config build-essential libssl-dev curl jq
 ```
 ### install Rust
+```
+curl https://sh.rustup.rs/ -sSf | sh -s -- -y
+```
