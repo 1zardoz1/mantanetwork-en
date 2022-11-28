@@ -11,3 +11,5 @@
 |  CPU  |    RAM     |     SSD    |  
 |-------|------------|------------|
 |    2  |      4     | unspecified|
+
+# update our server
