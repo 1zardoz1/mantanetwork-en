@@ -16,3 +16,6 @@ if you have participated in the first stage, we will have completed the second s
 ```
 sudo apt update && sudo apt upgrade -y
 ```
+```
+apt install screen -y
+```
