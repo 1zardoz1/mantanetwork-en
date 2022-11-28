@@ -19,3 +19,4 @@ sudo apt update && sudo apt upgrade -y
 ```
 apt install screen -y
 ```
+install the requirements
